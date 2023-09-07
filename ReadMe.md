@@ -6,6 +6,8 @@
 </a>
 </div>
 
+[![YouTube](https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=YouTube&logoColor=write&color=FF0000)](https://www.youtube.com/live/DqzB4eIy5EU?si=lTdfmUKEQEJF7L6N)
+
 - Simple book inventory application has been developed using Spring Boot
 
 <br>
